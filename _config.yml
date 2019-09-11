@@ -1,14 +1,9 @@
-# # # # # # # # # # # # #
-#   K i k o - p l u s   #
-# # # # # # # # # # # # #
-
-# Basic
 name:               "reksio's notes"
 
 author:
-  twitter:          your-id
-  github:           your-id
-  stackoverflow:    your-id
+  twitter:          reksio_
+#  github:           your-id
+#  stackoverflow:    your-id
   email:            reksioblog@protonmail.ch
 
 copyright:
